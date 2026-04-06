@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comment version="3.0">
+  <caption>Close Up of a Drink on a Table</caption>
+  <note>A detailed view of a beverage resting on a wooden table.</note>
+  <place/>
+  <rating value="5"/>
+  <categories>
+    <category value="drink"/>
+    <category value="table"/>
+    <category value="close up"/>
+    <category value="wooden"/>
+    <category value="beverage"/>
+    <category value="refreshment"/>
+    <category value="liquid"/>
+    <category value="glass"/>
+    <category value="surface"/>
+    <category value="condensation"/>
+    <category value="ice"/>
+    <category value="chilled"/>
+    <category value="positioned"/>
+    <category value="indoors"/>
+    <category value="setting"/>
+    <category value="object"/>
+    <category value="isolated"/>
+    <category value="focus"/>
+    <category value="selective"/>
+    <category value="foreground"/>
+    <category value="background"/>
+    <category value="dining"/>
+    <category value="relax"/>
+    <category value="relaxation"/>
+    <category value="top"/>
+    <category value="viewing"/>
+    <category value="consuming"/>
+    <category value="enjoying"/>
+  </categories>
+</comment>
